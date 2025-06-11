@@ -20,3 +20,6 @@ Nonce Mining Simulation
 - Simulates PoW (Power), PoS (Stake), and DPoS (Votes).
 - Demonstrates how different validators are chosen.
   File: `consensus mechanism simulation.py`
+
+## Task 2:
+This project is part of my internship in the field of Blockchain Technology. It presents a comparative study and analysis of three major types of blockchain platforms: Public (Ethereum),Private (Hyperledger Fabric), and Consortium (R3 Corda).
